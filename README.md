@@ -1,7 +1,4 @@
-blogcode
-========
-
-source code used in blog
+#fun-code
 
 
 *********
@@ -17,6 +14,8 @@ source code used in blog
 5. spider: a knownsec [question](http://blog.knownsec.com/2012/02/knownsec-recruitment/). 
 
 6. day_sign_up: a elgg plugins. 
+
+7.	exercise: code of programming exercise 
 
 10. 9LianHuan.py
 
