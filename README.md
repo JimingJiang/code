@@ -16,6 +16,7 @@
 6. day_sign_up: a elgg plugins. 
 
 7.	exercise: code of programming exercise 
+8. so: linux dynamic linking example
 
 10. 9LianHuan.py
 
