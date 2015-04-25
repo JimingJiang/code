@@ -4,7 +4,7 @@
 #include<iostream>
 #include<string>
 using namespace std;
-string hello(string name);
-string desc();
+extern "C" string hello(string name);
+extern "C" string desc();
 
 #endif
