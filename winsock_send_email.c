@@ -20,11 +20,11 @@ int len;
 void send_socket(SOCKET sock, char *data)
 {
 	send(sock, data, strlen(data),0);
-    printf("Client:%s\n",data);
+	printf("Client:%s\n",data);
 }
 void read_socket(SOCKET sock)
 {
-    len = recv(sock, buf, BUFSIZ, 0);
+	len = recv(sock, buf, BUFSIZ, 0);
 	printf("Server:%s\n",buf);
 }
 
