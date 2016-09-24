@@ -13,10 +13,9 @@
 
 5. spider: a knownsec [question](http://blog.knownsec.com/2012/02/knownsec-recruitment/). 
 
-6. day_sign_up: a elgg plugins. 
+6.	exercise: code of programming exercise 
 
-7.	exercise: code of programming exercise 
-8. so: linux dynamic linking example
+7. so: linux dynamic linking example
 
 10. 9LianHuan.py
 
